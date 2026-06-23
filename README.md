@@ -21,8 +21,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here]
-- Live Site URL: [Add your deployed URL here]
+- [Solution](https://www.frontendmentor.io/solutions/social-link-profile---mobile-responsive-c536L_2amG)
+- [Live](https://social-link-profile-sable.vercel.app/)
 
 ## My process
 
